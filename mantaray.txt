@@ -1,0 +1,94 @@
+
+add page links to for package
+favi icon
+add mapping to the 200 and 300 series
+
+designing issue :-
+
+Menu issue feedback:-
+ As it is right now, there is a very small area where the mouse over drop down shows, I have trouble when I move my mouse down onto the list of links because they disappear unless my cursor is in the right place over the main menu item. It should drop down on mouse over and when the cursor moves downwards, the list of links should stay visible until the cursor moves above the main menu link, to the right or left of the main menu link vertical edges or below the list of links. The drop down should be 100% width of the main menu item's left edge of the top dark blue text link.
+
+
+Incomplete
+ (functionality)
+http://192.155.246.146:7176/tide-tables/
+
+Pages left
+
+http://192.155.246.146:7176/yap-shark-diving/
+http://www.mantaray.com/diving-sites.php
+http://192.155.246.146:7176/dive-sites/
+http://192.155.246.146:7176/tide-tables/
+
+no content for this page
+
+http://192.155.246.146:7176/resort-services/
+http://192.155.246.146:7176/dive-reports/
+
+make single page for wallpaper
+
+http://192.155.246.146:7176/book-online-today/ ( functionality ) ssl
+
+flight section design header
+
+comment section design
+
+calender issue(high tide together)
+
+image maping issue for rooms 200 and 300
+
+language widget style
+
+404.php local issue
+
+like button design
+
+update links on serialize issue
+image customizer not saving on update
+
+gallery links is static
+
+image mapping issue
+
+suggest client about rooms images issue
+
+http://www.mantaray.com/getting-here.php
+content and design issue
+
+Package slider pages
+
+Newsletter issue
+
+http://192.155.246.146:7176/package/30th-anniversary-special/
+
+
+complete rest of the pages for room section
+
+issue in following pages
+
+http://www.mantaray.com/book-online-today.php
+
+dont put files in current site folder while uploading to staging
+
+reservation page is https
+
+
+add meta fields check to slider
+
+facebook issue
+
+Slider images issue  responsive
+add more slider images
+
+
+pages Active in live but not in staging
+
+www.mantaray.com/yap-links.php#
+http://www.mantaray.com/literature.php
+http://www.mantaray.com/weather.php
+http://www.mantaray.com/history-and-culture.php#
+
+http://www.mantaray.com/admin/
+
+username - mantaray
+password Kat1eR0se

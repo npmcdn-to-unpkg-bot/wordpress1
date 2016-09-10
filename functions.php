@@ -267,7 +267,7 @@ function mantaray_scripts() {
     wp_enqueue_script('jquery-ui', get_template_directory_uri() . '/js/jquery-ui.js', array('jquery'));
     wp_enqueue_script('bx-slider', get_template_directory_uri() . '/js/jquery.bxslider.min.js', array('jquery'));
     wp_enqueue_script('fancybox', get_template_directory_uri() . '/js/jquery.fancybox.js', array('jquery'));
-    wp_enqueue_script('masonry', 'https://npmcdn.com/masonry-layout@4.0/dist/masonry.pkgd.min.js', array('jquery'));
+    wp_enqueue_script('masonry', 'https://unpkg.com/masonry-layout@4.0/dist/masonry.pkgd.min.js', array('jquery'));
 
 //    if (is_page_template(['home-template.php','availability.php', 'reservation.php','sidebar.php'])) {
     wp_enqueue_script('validation', get_template_directory_uri() . '/js/jquery.validate.min.js', array('jquery'));
